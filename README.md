@@ -2,4 +2,4 @@
 # Some logic Operation Ic   
 # Timer  
 # Lcd 20X4
-   
+# Seven Segment 4-Digit(CA-4D-4S)
