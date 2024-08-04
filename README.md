@@ -5,6 +5,7 @@
 # Seven Segment 4-Digit(CA-4D-4S)
 # Main board clock 12MHz(Usbasp)
 # MicroControler Clock 16MHz
+# Serial Communication(UART) with Atmega Series(DIP-28P)
  
       
  
