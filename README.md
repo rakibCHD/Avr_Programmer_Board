@@ -6,6 +6,7 @@
 # Main board clock 12MHz(Usbasp)
 # MicroControler Clock 16MHz
 # Serial Communication(UART) with Atmega Series(DIP-28P)
+# Lfuse-0xFA;Hfuse-0x99(Atmega162)
  
       
  
