@@ -7,6 +7,7 @@
 # MicroControler Clock 16MHz
 # Serial Communication(UART) with Atmega Series(DIP-28P)
 # Lfuse-0xFA;Hfuse-0x99(Atmega162)
+# Lfuse-0xFF;Hfuse-0xD9(Atmega8)
  
       
  
