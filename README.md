@@ -8,6 +8,6 @@
 # Serial Communication(UART) with Atmega Series(DIP-28P)
 # Lfuse-0xFA;Hfuse-0x99(Atmega162)
 # Lfuse-0xBF;Hfuse-0xC4(Atmega8)
- 
+# Lfuse-0xE4;Hfuse-0x9F(Attiny2313) 
       
  
