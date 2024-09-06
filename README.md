@@ -9,5 +9,7 @@
 # Lfuse-0xFA;Hfuse-0x99(Atmega162)
 # Lfuse-0xBF;Hfuse-0xC4(Atmega8)
 # Lfuse-0xE4;Hfuse-0x9F(Attiny2313) 
+# Lfuse-0xF1;Hfuse-0xDF(Attiny85) 
+
       
  
