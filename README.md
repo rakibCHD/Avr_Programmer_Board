@@ -10,6 +10,4 @@
 # Lfuse-0xBF;Hfuse-0xC4(Atmega8)
 # Lfuse-0xE4;Hfuse-0x9F(Attiny2313) 
 # Lfuse-0xF1;Hfuse-0xDF(Attiny85) 
-
-      
- 
+# at89s52 has no fuse bits
